@@ -13,6 +13,6 @@
 * [体验地址](https://wuxianqiang.github.io/backTop/)
 * [代码仓库](https://github.com/wuxianqiang/backTop)
 
-## 4. 图片懒加载
+## 4. 图片懒加载(移动端)
 * [体验地址](https://wuxianqiang.github.io/lazyLoading)
 * [代码仓库](https://github.com/wuxianqiang/lazyLoading)
