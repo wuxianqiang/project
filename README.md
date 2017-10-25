@@ -12,3 +12,7 @@
 ## 3. 回到顶部(含楼层导航)
 * [体验地址](https://wuxianqiang.github.io/backTop/)
 * [代码仓库](https://github.com/wuxianqiang/backTop)
+
+## 4. 图片懒加载
+* [体验地址](https://wuxianqiang.github.io/lazyLoading)
+* [代码仓库](https://github.com/wuxianqiang/lazyLoading)
