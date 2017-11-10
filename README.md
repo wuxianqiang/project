@@ -16,3 +16,7 @@
 ## 4. 图片懒加载(移动端)
 * [体验地址](https://wuxianqiang.github.io/lazyLoading)
 * [代码仓库](https://github.com/wuxianqiang/lazyLoading)
+
+## 5. 放大镜
+* [体验地址](https://wuxianqiang.github.io/magnifier/)
+* [代码仓库](https://github.com/wuxianqiang/magnifier)
